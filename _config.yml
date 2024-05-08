@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Nianchen Deng"
-description              : "Nianchen Deng's personal page"
+description              : "Focus on CG and AR/VR"
 repository               : "dengnianchen/dengnianchen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Nianchen Deng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Researcher in Shanghai AI Lab."
+  bio              : "Researcher @ Shanghai AI Lab"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
